@@ -1,0 +1,1 @@
+export { SiteHero } from './SiteHero';

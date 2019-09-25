@@ -1,0 +1,8 @@
+.hero {
+  background-image: url(../images/hero-banner.jpg);
+  height: 50vh;
+}
+
+.heroContainer {
+  justify-content: space-between;
+}
